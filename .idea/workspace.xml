@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="400f71e2-e97c-44f2-9ad8-f17f81b27b09" name="Changes" comment="s">
+      <change beforePath="$PROJECT_DIR$/build/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/custom.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/changelog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/production/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/production/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/american-express.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/cropper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/inbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/mastercard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/media.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/picture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/prod-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/prod-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/prod-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/prod-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/prod-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/images/visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/tables_dynamic.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29D7hHcFTjjE59whjtdnhiedUbo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/production" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jorge\OneDrive\UOC_Master_DataScience\Cuatrimestre_Actual\POO\PRAC_2\Visualizaci-n_PRAC\production" />
+      <recent name="C:\Users\Jorge\OneDrive\UOC_Master_DataScience\Cuatrimestre_Actual\POO\PRAC_2\Visualizaci-n_PRAC" />
+      <recent name="C:\Users\Jorge\OneDrive\UOC_Master_DataScience\Cuatrimestre_Actual\POO\PRAC_2\Visualizaci-n_PRAC\build\css" />
+      <recent name="C:\Users\Jorge\OneDrive\UOC_Master_DataScience\Cuatrimestre_Actual\POO\PRAC_2\Visualizaci-n_PRAC\docs\fonts\fonts" />
+      <recent name="C:\Users\Jorge\OneDrive\UOC_Master_DataScience\Cuatrimestre_Actual\POO\PRAC_2\Visualizaci-n_PRAC\production\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jorge\OneDrive\UOC_Master_DataScience\Cuatrimestre_Actual\POO\PRAC_2\Visualizaci-n_PRAC\production" />
+      <recent name="C:\Users\Jorge\OneDrive\UOC_Master_DataScience\Cuatrimestre_Actual\POO\PRAC_2\Visualizaci-n_PRAC" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400f71e2-e97c-44f2-9ad8-f17f81b27b09" name="Changes" comment="" />
+      <created>1652635919506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652635919506</updated>
+    </task>
+    <task id="LOCAL-00001" summary="s">
+      <created>1652638354866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652638354866</updated>
+    </task>
+    <task id="LOCAL-00002" summary="s">
+      <created>1654959131571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654959131571</updated>
+    </task>
+    <task id="LOCAL-00003" summary="s">
+      <created>1654959687939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654959687939</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ini" />
+    <MESSAGE value="s" />
+    <option name="LAST_COMMIT_MESSAGE" value="s" />
+  </component>
+</project>
